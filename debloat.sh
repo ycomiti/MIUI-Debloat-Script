@@ -75,7 +75,9 @@ uninstall() {
 	fi
   done
 }
+
 for package in "${packages[@]}"; do
   uninstall "${device}" "${package}"
 done
+
 adb -s "${device}" shell reboot
