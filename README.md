@@ -8,8 +8,8 @@ This repository contains a script designed to debloat your Xiaomi device that su
 - **Customizable Package List**: Easily modify the list of packages to uninstall based on your preferences.
 
 ## Prerequisites
-
-- A Xiaomi device with USB debugging enabled.
+- A Xiaomi device with USB debugging and <a href="https://github.com/user-attachments/assets/f861da0f-093c-4c20-a298-5db4d7fbbd41">USB debugging (Security settings)</a> enabled.<br />
+  This is necessary if you want the script to clear the bloatware data prior to uninstalling it.
 - ADB (Android Debug Bridge) installed on your computer.
 - Basic knowledge of using the command line.
 
