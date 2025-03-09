@@ -32,7 +32,6 @@ packages=(
   "com.google.android.setupwizard"
   "com.google.android.setupwizard.searchselector.SearchEngineSelectorApplication"
   "com.google.android.partnersetup"
-  "com.google.android.inputmethod.latin"
   "com.google.android.gm"
   "com.google.android.printservice.recommendation"
   "com.google.android.marvin.talkback"
